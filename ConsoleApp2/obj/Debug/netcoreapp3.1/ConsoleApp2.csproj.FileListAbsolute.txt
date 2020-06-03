@@ -1,0 +1,11 @@
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.deps.json
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.json
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.runtimeconfig.dev.json
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.dll
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/ConsoleApp2.pdb
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.csprojAssemblyReference.cache
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.AssemblyInfo.cs
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.dll
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp3.1/ConsoleApp2.pdb
+/Users/ianchen/Project/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp3.1/Test.html
